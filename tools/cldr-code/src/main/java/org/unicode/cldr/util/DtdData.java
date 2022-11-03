@@ -1419,6 +1419,7 @@ public class DtdData extends XMLFileReader.SimpleHandler {
         "mass-solar-mass",
 
         "mass-grain",
+        "population-people",
 
         "power-gigawatt", "power-megawatt", "power-kilowatt", "power-watt", "power-milliwatt",
         "power-horsepower",

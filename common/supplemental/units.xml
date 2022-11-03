@@ -482,6 +482,9 @@ For terms of use, see http://www.unicode.org/copyright.html
             <unitPreference regions="US">gallon</unitPreference>
             <unitPreference regions="001">liter</unitPreference>
         </unitPreferences>
+        <unitPreferences category="population" usage="default">
+            <unitPreference regions="001">people</unitPreference>
+        </unitPreferences>
         <unitPreferences category="year-duration" usage="default">
             <unitPreference regions="001">year</unitPreference>
             <unitPreference regions="001">month</unitPreference>

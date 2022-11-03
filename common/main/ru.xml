@@ -13730,6 +13730,26 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<unitPattern count="other" case="locative">{0} имп. кварты</unitPattern>
 				<unitPattern count="other" case="vocative">{0} имп. кварты</unitPattern>
 			</unit>
+			<unit type="population-people">
+				<gender>masculine</gender>
+				<displayName>человек</displayName>
+				<unitPattern count="one">{0} человек</unitPattern>
+				<unitPattern count="one" case="accusative">{0} человек</unitPattern>
+				<unitPattern count="one" case="dative">{0} человеку</unitPattern>
+				<unitPattern count="one" case="genitive">{0} человека</unitPattern>
+				<unitPattern count="one" case="instrumental">{0} человеком</unitPattern>
+				<unitPattern count="one" case="locative">{0} человеке</unitPattern>
+				<unitPattern count="one" case="prepositional">{0} человеке</unitPattern>
+				<unitPattern count="one" case="vocative">{0} человек</unitPattern>
+				<unitPattern count="other">{0} человек</unitPattern>
+				<unitPattern count="other" case="accusative">{0} человекам</unitPattern>
+				<unitPattern count="other" case="dative">{0} человекам</unitPattern>
+				<unitPattern count="other" case="genitive">{0} человек</unitPattern>
+				<unitPattern count="other" case="instrumental">{0} человеками</unitPattern>
+				<unitPattern count="other" case="locative">{0} человеках</unitPattern>
+				<unitPattern count="other" case="prepositional">{0} человеках</unitPattern>
+				<unitPattern count="other" case="vocative">{0} человек</unitPattern>
+			</unit>
 			<coordinateUnit>
 				<displayName>направление</displayName>
 				<coordinateUnitPattern type="east">{0} восточной долготы</coordinateUnitPattern>
@@ -15151,6 +15171,11 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<unitPattern count="many">{0} имп. кварт.</unitPattern>
 				<unitPattern count="other">{0} имп. кварт.</unitPattern>
 			</unit>
+			<unit type="population-people">
+				<displayName>чел.</displayName>
+				<unitPattern count="one">{0} чел.</unitPattern>
+				<unitPattern count="other">{0} чел.</unitPattern>
+			</unit>
 			<coordinateUnit>
 				<displayName>направление</displayName>
 				<coordinateUnitPattern type="east">{0} в. д.</coordinateUnitPattern>
@@ -16571,6 +16596,11 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<unitPattern count="few">↑↑↑</unitPattern>
 				<unitPattern count="many">↑↑↑</unitPattern>
 				<unitPattern count="other">↑↑↑</unitPattern>
+			</unit>
+			<unit type="population-people">
+				<displayName>чел.</displayName>
+				<unitPattern count="one">{0}чел.</unitPattern>
+				<unitPattern count="other">{0}чел.</unitPattern>
 			</unit>
 			<coordinateUnit>
 				<displayName>напр.</displayName>

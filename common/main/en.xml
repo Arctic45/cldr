@@ -7260,6 +7260,11 @@ annotations.
 				<unitPattern count="one">{0} Imp. quart</unitPattern>
 				<unitPattern count="other">{0} Imp. quarts</unitPattern>
 			</unit>
+			<unit type="population-people">
+				<displayName>people</displayName>
+				<unitPattern count="one">{0} person</unitPattern>
+				<unitPattern count="other">{0} people</unitPattern>
+			</unit>
 			<coordinateUnit>
 				<displayName>cardinal direction</displayName>
 				<coordinateUnitPattern type="east">{0} east</coordinateUnitPattern>
@@ -8143,6 +8148,11 @@ annotations.
 				<displayName>barrel</displayName>
 				<unitPattern count="one">{0} bbl</unitPattern>
 				<unitPattern count="other">{0} bbl</unitPattern>
+			</unit>
+			<unit type="population-people">
+				<displayName>ppl</displayName>
+				<unitPattern count="one">{0} person</unitPattern>
+				<unitPattern count="other">{0} ppl</unitPattern>
 			</unit>
 			<coordinateUnit>
 				<displayName>direction</displayName>
@@ -9070,6 +9080,11 @@ annotations.
 				<displayName>qt Imp</displayName>
 				<unitPattern count="one">{0}qt-Imp.</unitPattern>
 				<unitPattern count="other">{0}qt-Imp.</unitPattern>
+			</unit>
+			<unit type="population-people">
+				<displayName>ppl</displayName>
+				<unitPattern count="one">{0}person</unitPattern>
+				<unitPattern count="other">{0}ppl</unitPattern>
 			</unit>
 			<coordinateUnit>
 				<coordinateUnitPattern type="east">{0}E</coordinateUnitPattern>
